@@ -1,0 +1,27 @@
+,id,menuName,category,menu_icon,menu_description,uniqueCode,status_id,record_status,created_by,modified_by,date_created,time_created,date_modified,time_modified,Created_By
+0,12,u_adminmenu,Sidebar,>,Update menu,1621499812783,1,1,1,1,2021-05-20,08:36:52,2021-05-20,08:42:37,instructsme@gmail.com
+1,13,d_adminmenu,Sidebar,>,Delete menu,1621499829487,1,1,1,1,2021-05-20,08:37:09,2021-05-20,08:42:37,instructsme@gmail.com
+2,16,adminaccount,Sidebar,bi-list,Admin account,1622041655010,1,1,1,1,2021-05-26,15:07:35,2021-06-08,08:44:06,instructsme@gmail.com
+3,17,adminrecord,Sidebar,bi-list,Admin record,1622041671464,1,1,1,1,2021-05-26,15:07:51,2021-06-08,08:44:06,instructsme@gmail.com
+4,35,updatedob,Sidebar,>,Date of birth,1623838302600,1,1,1,1,2021-06-16,10:11:42,2021-06-16,10:12:31,instructsme@gmail.com
+5,4,adminprivilege,menu,bi-card-checklist,Menu priviledge,3431535554124,1,1,1,1,2021-04-13,10:56:05,2021-05-18,11:43:09,instructsme@gmail.com
+6,22,useraccount,Sidebar,bi-card-checklist,User's account,1623162202351,1,1,1,1,2021-06-08,14:23:22,2021-06-08,14:25:25,instructsme@gmail.com
+7,24,userrecord,Sidebar,bi-person,User record,1623162288419,1,1,1,1,2021-06-08,14:24:48,2021-06-08,14:25:25,instructsme@gmail.com
+8,36,updatepassword,Sidebar,>,Update password,1623855482691,1,1,1,1,2021-06-16,14:58:02,2021-06-16,14:59:11,instructsme@gmail.com
+9,18,d_adminrecord,Sidebar,bi-list,D_adminrecord,1622041692881,1,1,1,1,2021-05-26,15:08:12,2021-05-26,15:08:51,instructsme@gmail.com
+10,19,u_adminrecord,Sidebar,bi-list,U_adminrecord,1622041701241,1,1,1,1,2021-05-26,15:08:21,2021-05-26,15:08:51,instructsme@gmail.com
+11,5,adminnewmenu,menu,>,New menu,1621325607199,1,1,1,1,2021-05-18,08:13:27,2021-05-25,16:28:30,instructsme@gmail.com
+12,1,dashboard,dashboard,bi-bricks,Dashboard,1431535554124,1,1,1,1,2021-04-13,10:56:05,2021-05-19,16:28:53,instructsme@gmail.com
+13,15,d_adminprivilege,Sidebar,>,D_adminpriviledge,1621965819854,1,1,1,1,2021-05-25,18:03:39,2021-05-25,18:04:20,instructsme@gmail.com
+14,37,jobrole,Sidebar,>,Job,1623867542505,1,1,1,1,2021-06-16,18:19:02,2021-06-16,18:19:21,instructsme@gmail.com
+15,27,updatename,Sidebar,>,Update name,1623349543991,1,1,1,1,2021-06-10,18:25:43,2021-06-10,18:29:28,instructsme@gmail.com
+16,28,updateemail,Sidebar,>,Update email,1623349556647,1,1,1,1,2021-06-10,18:25:56,2021-06-10,18:29:28,instructsme@gmail.com
+17,29,updategender,Sidebar,>,Update gender,1623349567015,1,1,1,1,2021-06-10,18:26:07,2021-06-10,18:29:28,instructsme@gmail.com
+18,30,updatecontact,Sidebar,>,Update contact,1623349602905,1,1,1,1,2021-06-10,18:26:42,2021-06-10,18:29:28,instructsme@gmail.com
+19,31,updateaddress,Sidebar,>,Update address,1623349611378,1,1,1,1,2021-06-10,18:26:51,2021-06-10,18:29:28,instructsme@gmail.com
+20,32,requestloan,Sidebar,>,Request loan,1623349635743,1,1,1,1,2021-06-10,18:27:15,2021-06-10,18:29:28,instructsme@gmail.com
+21,33,loanhistory,Sidebar,>,Loan history,1623349661574,1,1,1,1,2021-06-10,18:27:41,2021-06-10,18:29:28,instructsme@gmail.com
+22,3,adminaccess,menu,bi-list-check,Menu Access,2431535554124,1,1,1,1,2021-04-13,10:56:05,2021-05-19,19:07:27,instructsme@gmail.com
+23,2,adminmenus,menu,bi-list,Menu,455435515354124,1,1,1,1,2021-04-13,10:56:05,2021-05-19,19:07:27,instructsme@gmail.com
+24,26,uploadbulkuser,Sidebar,>,Upload users,1623196041911,1,1,1,1,2021-06-08,23:47:21,2021-06-08,23:51:39,instructsme@gmail.com
+25,25,previewuser,Sidebar,>,Preview user,1623195960569,1,1,1,1,2021-06-08,23:46:00,2021-06-08,23:51:39,instructsme@gmail.com

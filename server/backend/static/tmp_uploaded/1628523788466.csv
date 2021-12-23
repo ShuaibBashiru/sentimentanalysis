@@ -1,0 +1,6 @@
+s/n,title,faults,solution_one
+,Damaged Device,The device is connected in series or parallel to an electric circuit.,Connect the device properly by connecting the positive probe of ammeter to the positive terminal and the negative probe to one end of a resistor.
+,Frictional Error,Badly worn,This can be minimized by tapping gently on the case with fingertip before taking an observation
+,Temperature Error, resistance coil connected internally to the instrument by operating current,Ventilation and cooling procedures should be arranged for the device
+,Observational error,Misreading of parallax in reading and errors in estimation,Providing a mirror beneath the scale
+,Meter Defective,Breakage in meter calibration,Recalibrate the meter

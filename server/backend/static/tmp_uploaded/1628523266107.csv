@@ -1,0 +1,11 @@
+s/n,title,faults,solution_one
+,Difference between the true and the mark value of the three resistances,Error in measurement.,Take repeated measurements
+1,,,
+,,,can be reduced by using the best qualities resistor and galvanometer
+2,Inaccuracy occurs in the balance point.,The galvanometer is less sensitive,
+,Serious trouble in the measurement of low-value resistance.,thermal effect error,This can also be reduced by connecting the reversing switch between the battery and the bridge.
+3,,,
+,The resistance of the bridge changes,self-heating of resistance,Can minimized by measuring the resistance within the short time.
+4,,,
+,,,This error can be reduced by taking the readings severally or by finding the null point.
+5,Inaccurate readings,personal error,

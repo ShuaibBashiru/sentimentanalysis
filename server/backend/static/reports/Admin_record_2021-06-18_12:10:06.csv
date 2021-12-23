@@ -1,0 +1,5 @@
+,id,surname,firstname,othername,email_one,email_two,phone_one,phone_two,gender,age,countryCode,language_code,personal_id,account_type,user_role,pwd_auth_hash,pwd_auth,status_id,record_status,user_lga,user_city,user_state,user_address_one,user_address_two,job_role,job_department,job_branch,created_by,modified_by,date_created,time_created,date_modified,time_modified
+0,1,Bashiru,Shuaib,Abiodun,instructsme@gmail.com,,08172790182,,,0,+234,,1623194731087,,,,Ayodele1,1,1,,,,,,,,,0,1,2021-06-08,23:25:31,2021-06-14,07:46:53
+1,10,Bashiru,Shuaib,,instructsme5@gmail.com,,08172790181,,,0,+234,,1623583605774,,,,,1,1,,,,,,,,,0,1,2021-06-13,11:26:45,2021-06-14,07:46:53
+2,11,Bashiru,Shuaib,,instructsme3@gmail.com,,081727901829,,,0,+234,,1623654471119,,,,,1,1,,,,,,,,,0,1,2021-06-14,07:07:51,2021-06-14,08:36:08
+3,13,Bashiru,Adewale,,instructsme211@gmail.com,,08172790183,,,0,+234,,1624012550518,,,,,0,1,,,,,,,,,0,0,2021-06-18,10:35:50,2021-06-18,10:35:50

@@ -1,0 +1,86 @@
+
+{From: Menu_api, Date: 2021-10-29 14:39:17.468201, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Statistics, Date: 2021-10-29 14:39:17.477601, Error found: float division by zero}__error_log__
+{From: Menu_api, Date: 2021-10-29 14:39:59.756392, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 14:40:13.072741, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 14:40:17.810304, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 14:40:27.915422, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 14:41:34.292097, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 14:41:37.516992, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 14:42:48.262553, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Statistics, Date: 2021-10-29 14:43:02.416692, Error found: float division by zero}__error_log__
+{From: Menu_api, Date: 2021-10-29 14:43:10.489499, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 14:43:15.281727, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Password mailer, Date: 2021-10-29 14:44:44.844847, Error found: (1364, "Field 'id' doesn't have a default value")}__error_log__
+{From: Menu_api, Date: 2021-10-29 14:46:15.093902, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 14:47:44.107341, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 14:48:26.749265, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 14:54:37.453629, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 14:56:51.424401, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 14:57:05.643550, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 14:59:24.396571, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:00:58.521656, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:01:03.767798, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:02:01.744916, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:02:06.236235, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:02:07.675264, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:02:09.339903, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:02:11.306410, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:02:13.907178, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:02:39.472434, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:03:08.659189, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:03:11.125036, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:03:18.485552, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:03:20.397592, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:03:27.420945, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:03:27.670013, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:03:31.020410, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:03:41.247267, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:05:12.984841, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:05:42.155819, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:05:44.945777, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:05:51.075332, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:06:39.683192, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:06:51.278750, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:07:48.830069, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:08:17.486539, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 15:08:23.386370, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:37:26.277954, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:38:28.615322, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:39:08.116746, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:39:22.189212, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:40:53.424545, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Statistics, Date: 2021-10-29 16:41:04.098137, Error found: float division by zero}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:41:15.320880, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:41:26.237770, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:41:36.842384, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:41:46.024156, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:41:52.922876, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:41:57.832098, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:42:01.064262, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:42:04.675056, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:47:37.947907, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:48:11.736384, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:48:23.190119, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-10-29 16:48:29.684313, Error found: (1146, "Table 'sentiment_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-11-15 22:17:42.830968, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-11-15 22:17:54.551999, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-11-15 22:18:21.430023, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Statistics, Date: 2021-11-15 22:18:38.787546, Error found: float division by zero}__error_log__
+{From: Menu_api, Date: 2021-11-15 22:19:56.414500, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-11-15 22:20:07.858408, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-11-15 22:20:16.298933, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-11-15 22:20:19.845894, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-11-15 22:20:34.827498, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-11-26 15:13:48.122063, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-11-26 15:14:15.410350, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-11-26 15:14:52.475086, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-11-26 15:15:42.476014, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-11-26 15:16:35.950550, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-11-26 15:18:18.988815, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-11-26 15:18:38.807436, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-11-26 15:19:51.236151, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Menu_api, Date: 2021-11-26 15:19:59.756926, Error found: (1146, "Table 'feedback_db.admin_privileges' doesn't exist")}__error_log__
+{From: Statistics, Date: 2021-11-26 15:23:25.021432, Error found: float division by zero}__error_log__
+{From: Statistics, Date: 2021-11-26 15:23:39.096644, Error found: float division by zero}__error_log__
+{From: Statistics, Date: 2021-11-26 15:23:42.044406, Error found: float division by zero}__error_log__
